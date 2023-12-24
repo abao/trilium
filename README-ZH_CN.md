@@ -7,10 +7,7 @@ Trilium Notes 是一个层次化的笔记应用程序，专注于建立大型个
 
 ![](https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png)
 
-Ukraine is currently suffering from Russian aggression, please consider donating to [one of these charities](https://old.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="drawing" width="600"/>
-<img src="https://signmyrocket.com//uploads/2b2a523cd0c0e76cdbba95a89a9636b2_1676971281.jpg" alt="Trilium Notes supports Ukraine!" width="600"/>
 
 ## 特性
 
@@ -73,9 +70,7 @@ npm run start-server
 * [CodeMirror](https://github.com/codemirror/CodeMirror) - 支持大量语言的代码编辑器
 * [jsPlumb](https://github.com/jsplumb/jsplumb) - 强大的可视化连接库。用于[关系图](https://github.com/zadam/trilium/wiki/Relation-map)和[链接图](https://github.com/zadam/trilium/wiki/Link-map)
 
-## 捐赠
 
-你可以通过 GitHub Sponsors，[PayPal](https://paypal.me/za4am) 或者比特币 (bitcoin:bc1qv3svjn40v89mnkre5vyvs2xw6y8phaltl385d2) 来捐赠。
 
 ## 许可证
 
